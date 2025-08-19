@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Shringar Agarwala</h1>
-<h3 align="left">An aspiring Software engineer currently working in Product Management.</h3>
+<h3 align="left">An aspiring Senior Software Developer currently working at SAP Labs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shringaragarwal&label=Profile%20views&color=0e75b6&style=flat" alt="shringaragarwal" /> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning Generative AI
 
 - 📫 How to reach me **shringaragarwal.sa@gmail.com**
 
